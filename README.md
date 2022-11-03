@@ -13,5 +13,3 @@ mvn clean install
 to run
 
 scripts/deliver.sh
-
-this is a uild trigger test
